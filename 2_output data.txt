@@ -1,0 +1,9 @@
+25.65	Overweight
+21.51	Normal weight
+29.3	Overweight
+23.73	Normal weight
+17.02	Underweight
+19.47	Normal weight
+15.84	Underweight
+17.31	Underweight
+33.15	Obese
