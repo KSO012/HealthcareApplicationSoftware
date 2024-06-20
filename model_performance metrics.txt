@@ -1,0 +1,30 @@
+standard x line : 0.07 >
+  Logistic Regression
+  Accuracy: 0.617740   Precision: 0.624458   Recall: 0.584666   F1-score: 0.603907
+  Decision Tree
+  Accuracy: 0.551689   Precision: 0.550330   Recall: 0.549632   F1-score: 0.549981
+  Random Forest
+  Accuracy: 0.599899   Precision: 0.596907   Recall: 0.607515   F1-score: 0.602164
+  XGBoost
+  Accuracy: 0.621789   Precision: 0.615124   Recall: 0.644326   F1-score: 0.629386
+
+standard x line : 0.06 >
+  Logistic Regression
+  Accuracy: 0.628369   Precision: 0.633957   Recall: 0.601929   F1-score: 0.617528
+  Decision Tree
+  Accuracy: 0.547514   Precision: 0.546148   Recall: 0.545316   F1-score: 0.545732
+  Random Forest
+  Accuracy: 0.621030   Precision: 0.621399   Recall: 0.613354   F1-score: 0.617350
+  XGBoost
+  Accuracy: 0.632798   Precision: 0.629076   Recall: 0.641533   F1-score: 0.635244
+
+standard x line : 0.05 >
+  Logistic Regression
+  Accuracy: 0.590156   Precision: 0.591815   Recall: 0.572734   F1-score: 0.582118
+  Decision Tree
+  Accuracy: 0.560800   Precision: 0.558559   Recall: 0.566641   F1-score: 0.562571
+  Random Forest
+  Accuracy: 0.639631   Precision: 0.633146   Recall: 0.658543   F1-score: 0.645595
+  XGBoost
+  Accuracy: 0.646590   Precision: 0.632947   Recall: 0.692562   F1-score: 0.661414
+
